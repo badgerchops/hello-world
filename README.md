@@ -1,2 +1,3 @@
 # hello-world
-initial repository
+Howdy. 
+Just learning to use github
